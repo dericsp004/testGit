@@ -2,6 +2,3 @@ This is a sample file
 Here is my second change
 <<<<<<< HEAD
 This is the fourth change
-=======
-The third commit
->>>>>>> b5aaa46d1be73c9719568bbd52420c2e4372c251
